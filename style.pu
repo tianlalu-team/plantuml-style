@@ -38,6 +38,9 @@ skinparam class {
 	BackgroundColor White
 	BorderColor Black
 	BorderThickness 1
+	
+	BackgroundColor<<AggregateRoot>> DeepSkyBlue
+	BackgroundColor<<Entity>> LightSkyBlue
 }
 
 

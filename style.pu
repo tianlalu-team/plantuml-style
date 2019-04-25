@@ -1,7 +1,7 @@
 ' Not-ugly plantuml style defaults
 
 ' 手绘样式
-skinparam handwritten true
+' skinparam handwritten true
 
 skinparam defaultFontName  Helvetica
 skinparam sequenceMessageAlign center

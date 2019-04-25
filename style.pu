@@ -1,11 +1,17 @@
 ' Not-ugly plantuml style defaults
 
-' 手绘样式
-' skinparam handwritten true
+' 样式定义文档: http://plantuml.com/zh/skinparam
 
-skinparam defaultFontName  Helvetica
+' 手绘样式
+skinparam handwritten true
+
+' 默认字体
+skinparam defaultFontName Helvetica
+
 skinparam sequenceMessageAlign center
-skinparam monochrome true
+
+' 强制使用黑/白输出模式
+' skinparam monochrome true
 
 skinparam activity {
 	ArrowColor Black
@@ -26,6 +32,7 @@ skinparam usecase {
 	BorderThickness 1
 }
 
+' 类图样式
 skinparam class {
 	ArrowColor Black
 	BackgroundColor White

@@ -3,7 +3,7 @@
 ' 样式定义文档: http://plantuml.com/zh/skinparam
 
 ' 设置图片的宽度
-scale 1200 width
+' scale 1200 width
 
 ' 手绘样式
 skinparam handwritten true

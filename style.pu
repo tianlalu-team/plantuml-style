@@ -44,6 +44,7 @@ skinparam class {
 	
 	BackgroundColor<<AggregateRoot>> DodgerBlue
 	BackgroundColor<<Entity>> LightSkyBlue
+	BackgroundColor<<ValueObject>> DarkTurquoise
 }
 
 
